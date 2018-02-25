@@ -424,19 +424,19 @@
 			"Christmas 2016 1": {
 				"raw-japanese": "メリ～クリスマス！今年もクリスマスがやってきましたね♪去年よりも、少しは目立てるようにお洒落したんですけど… どうですか？気に入っていただけましたか？私、もっともっと団長さんの特別になりたいです…色々と、教えてくださいっ！",
 				"machine-translation": "Merry ~ Christmas! Christmas came this year as well ♪ I felt more like I could stand a little bit than last year ... how is it? Did you like it? I, I want to become more special than the headmaster's ... Please tell me!",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Merry Christmas! I feel like I can stand the cold a bit better than last year... how about you? Do you like the cold? I, I want to know everything about about you, so please tell me!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Christmas 2016 2": {
 				"raw-japanese": "メリークリスマス！団長さん♪ケーキを焼いてきました。どうぞ、召し上がってくださいっ♪ …そんなに慌てなくても、ケーキは避けたりしませんよ？でも、喜んでもらえてよかった…団長さん…大好きですよ。",
 				"machine-translation": "Merry Christmas! The headmaster ♪ I've baked a cake. Please, please eat ♪ ... Even if I do not panic so much, I will not avoid cakes? However, I'm glad that I was pleased ... Grandmaster ... I love you.",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Merry Christmas! I've baked a caked, my lord, please try it! I'm nervous about you trying it, but I won't panic, okay? I'm glad you like it... Knight Commander... I love you.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"New Year 1": {
 				"raw-japanese": "あけましておめでとうございます。団長さん、今年もよろしくお願いしますね。 新年の抱負、ですか？　そうですねぇ…もう少し、目立てるように頑張る、かな？ もちろん、団長さんのお役にも立てるよう精いっぱい務めさせていただきますよ！",
 				"machine-translation": "happy New Year. Mayor, I look forward to working with you again this year. What is your New Year's resolution? That's right ... I guess I'll do my best to make it a bit more visible, is not it? Of course, I will do everything as precious as possible for the role of the headmaster!",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Happy New Year. I look forward to working with you again this year, my lord. What is your New Year's resolution? Yeah... I guess I'll do my best to stand a bit more. That would be good, right? Of course, I will do everything I can to please the Knight Commander!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"New Year 2": {
@@ -448,61 +448,61 @@
 			"Valentine 1": {
 				"raw-japanese": "団長さん！あの、これ！チョコです。…一応、手作りなんですよ。口に合うかはわかりませんけど、食べて欲しいなって。 …グラジオラスちゃんにあげたのとは、また別物なんですからね",
 				"machine-translation": "Grandmaster! Um, this! It is chocolate. ... It is handmade for me. I do not know if it fits the mouth, but I want you to eat it. ... It is another thing to say to Gladiolus.",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Knight Commander! Um, here you go! It's... chocolate. I made it for you. I don't know if it tastes good, but I want you to eat it... I'd like to bring some to Gladiolus too.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Valentine 2": {
 				"raw-japanese": "団長さんと出会う前のバレンタインは、グラジオラスちゃんにチョコをあげる日でした。 もちろん今年もあげますし、それでも十分素敵な日でしたけど…。 団長さんにもあげるんだって考えたら、より、楽しみな日になりました！",
 				"machine-translation": "Valentine before meeting the headmaster was a day to give Chlagoras a chocolate. Of course I will give it this year as well, but it was still a nice day. When I thought that I would give it to the headmaster, it turned out to be a fun day!",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Before I met the Knight Commander, I only gave chocolate to Gladiolus. It was still nice, but I was really excited when I realized I could start giving it to my lord as well!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"White Day 1": {
 				"raw-japanese": "団長さん、どうしたんですか？こんな所に呼び出して？あっ！？それ……もしかして、バレンタインのお返しですか！？ わぁ、嬉しい、嬉しいです！ほ、本当に嬉しすぎて、上手く言葉が出てこないな……。 団長さん、大好きです！",
 				"machine-translation": "Headquarters, what happened? Call up to a place like this? Ah! What? Is it ... ... Maybe, is the return of Valentine? What? Wow, I'm happy, I'm happy! Well, I'm really happy too, words have not come up well ... .... Mr. Mae, I love you!",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Knight Commander, what happened? Did something happen? Ah! What? Is it... could you be returning the favor from Valentines Day? Really?! Wow, I'm so, so happy! I mean, oh my goodness, I can't think of the right words... Knight Commander, I love you!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"White Day 2": {
 				"raw-japanese": "あのー……団長さん、頂いたクッキーのことなんですけど……もしかしてあれ、団長さんの手作りですか？ わぁ、やっぱり！どれも個性的な形をしていたので、もしかしたらと思って！ もちろん、全部美味しく頂きました！",
 				"machine-translation": "Umm ... ... It is about the cookie you got, but ... Is that possibly handmade by the headmaster? Wow, as expected! Because none had a distinctive shape, I thought that was probably! Of course, I received all the delicious!",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Um... I have a question about this cookie I got... Did you... bake it for me all by yourself? Haha, that's what I thought! It had a funny shape compared to the others, so I figured it was from you! Of course, it was still delicious!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Spring 1": {
 				"raw-japanese": "ふゎぁ～、ポカポカして気持ちいい…こんな日はお弁当でも持って何処かに出かけたいですね。 そうだ団長さん！一緒にピクニックに行きませんか？たまにはのんびりお花を眺めるのもいいですよ？",
 				"machine-translation": "Fuyo: It feels good ... It is a pleasure for me ... I want to go somewhere with a boxed lunch on such a day. That's it, Grandmaster! Why do not we go on a picnic together? Sometimes you can relax and watch flowers?",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Haa, it feels good today... I love days like these, it makes be want to go outside with a boxed lunch. Oh, I have an idea! Why don't you and I go on a picnic together? It would be nice to go relax and watch the flowers, right?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Spring 2": {
 				"raw-japanese": "へっくしゅん！はぁ…春風と桜の花びらが私の鼻をくすぐって、イ、イタズラしてきます…。 団長さんは大丈夫ですか？くしゃみ出ちゃうと執務に集中できないと思いますし…あの、そういう時は私にも手伝わせて下さいね？",
 				"machine-translation": "Hello! Huh ... Spring breeze and cherry blossom petals tickle my nose, I, I'm sorry. Is the headmaster OK? I think that you can not concentrate on the office as you get sneezing ... Uh, at that time, please let me help you?",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Hello! Hah... Achoo! Oh, I-I'm sorry, it's just that the spring breeze and cherry blossom petals tickle my nose. Are you OK my lord? I imagine it would be hard to concentrate on your work if you're sneezing so much... Um, please let me help you if it gets that way, okay?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Tanabata 3": {
 				"raw-japanese": "団長さんが健康でありますように。それとグラジオラスちゃんに、両親に、騎士団のみんなに…… うーん…一つずつ書いていくと短冊が足りません。ここはまるっとまとめて、みんな健康でありますように。これでいきます。 クスッ　ちょっと大雑把な願い事ですけど、いいですよね？",
 				"machine-translation": "I hope the headmaster is healthy. And to Gladiolus, to parents, to everyone in the knights ... ... Well ... when I write one by one, I do not have enough strips. Let's summarize here, everyone should be healthy. This will continue. Kusu It is a coarse wish, but is it nice?",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "I wish for the Knight Commander to stay safe. And Gladiolus. And my parents. And all the other Flower Knights... Um... I don't think I have enough strips to do them one by one. I'll just shorten it and wish that everyone stays safe forever. Its a coarse wish, but I think it's nice, don't you?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Summer 3": {
 				"raw-japanese": "暑い季節こそ、暑い物が美味しいんですよ。というわけで、今日のお昼は、私も大好きな……はい、エビのドリアです！ 火傷しないようにしてくださいね。",
 				"machine-translation": "The hot weather is delicious in hot weather. So, today's lunch is my favorite too .... Yes, it is shrimp doria! Please do not burn yourself.",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Hot weather is a great time for hot food. So, today's lunch is my favorite... shrimp doria! Be careful not to burn yourself.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Moon Viewing 3": {
 				"raw-japanese": "ああっ！お月様が雲に隠れちゃいました……意地悪な雲ですね。 ちょっと待ちましょう、団長さん。またすぐ風に乗って雲はどっかに行っちゃいますよ。 それに……月はどこにも逃げませんから。",
 				"machine-translation": "Ahh! The moon hid in the clouds ... ... It is a mean cloud. Let's wait a minute, the headmaster. We will soon get on the wind and clouds will go somewhere. Also ... the moon will not escape anywhere.",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Ahh! The moon's been hidden behind that cloud... What a mean cloud. Let's wait a minute, my lord. I'm sure the wind will pick up and move the cloud elsewhere. I don't think the moon's going anywhere.",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Fall 3": {
 				"raw-japanese": "いち、に、さん、し……っと！　はぁ～～！ スポーツの秋という事で、筋力トレーニングをしています。ちなみに……食欲の秋対策も兼ねています。 ……よぉーし！　いち、に、さん、し……！",
 				"machine-translation": "One more time, san, then ... ....! Huh ~ ~! I am doing muscle training because of the fall of sports. By the way ... It also combines the autumn measures of appetite. ...... Yo yo! one two three four……!",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "One more time, san, then ... ....! Huh ~ ~! I'm doing some muscle training for the fall sports. It... also helps me to work off my autumn appetite... Yo you! One, two, three, four...!",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Halloween 3": {
@@ -514,13 +514,13 @@
 			"Winter 3": {
 				"raw-japanese": "寒いのは苦手なんですけど、雪が降るとワクワクしてきますね。なんだか、外に出て駆け回りたくなっちゃいます♪",
 				"machine-translation": "I am not good at cold, but as the snow falls, I'm getting excited. Somehow, I want to go out and want to run around ♪ ♪",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "I'm not good with the cold, but even so, snowfall makes my excited. For some reason, I just want to go out and run around ♪ ♪",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			},
 			"Christmas 3": {
 				"raw-japanese": "団長さん…私…この1年間、いい子に出来ていたでしょうか？　いい子に出来ていたなら、今夜は安心して眠れます。　…団長さんから見て、今年の私はいい子でしたか…？",
 				"machine-translation": "Mr. Master ... I ... ... Were you made a good boy for the past year? If I was a good boy, I can sleep peacefully tonight. ... Did I look like a good boy this year, from the perspective of the head coach?",
-				"mt-translation": "<Human Translation of machine-translation>",
+				"mt-translation": "Knight Commander... I... Were you a good boy this past year? If I was a good girl, I think I could sleep peacefully tonight. ...Do you think I've been a good girl?",
 				"fan-translation": "<Human Translations of raw-japanese>"
 			}
 		}
